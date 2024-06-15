@@ -1,6 +1,6 @@
-# React + Vite
+# React + Vite + Shdcn
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This template provides a minimal setup to get React working in Vite with Shadcn and more packages.
 
 Currently, two official plugins are available:
 
