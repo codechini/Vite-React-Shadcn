@@ -2,7 +2,5 @@
 
 This template provides a minimal setup to get React working in Vite with Shadcn and more packages.
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+You can use this template by scaffolding using "degit github:codechini/Vite-React-Shadcn" or on Github there is a "Use this template to get started".
+check out degit doc for more info if you face difficulty <a href='https://www.npmjs.com/package/degit'></a>.
